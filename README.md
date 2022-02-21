@@ -32,17 +32,9 @@
 - Developer Tooling
     - Turborepo & TSDX
 
-🏖️ PoolTogether Codebase - Gamified Prize Savings
-- https://github.com/pooltogether/v4-core
-- https://github.com/pooltogether/v4-periphery
-- https://github.com/pooltogether/v4-timelocks
-- https://github.com/pooltogether/v4-utils-js
-- https://github.com/pooltogether/v4-cli
+# 🧰 Web3 Systems Status
 
-
-## 🧰 Web3 Systems Status
-
-# ⛓️ Multichain Providers
+## ⛓️ Multichain Providers
 
 ![CI](https://github.com/web3-systems/multichain-providers/actions/workflows/main.yml/badge.svg)
 ![TS](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
@@ -52,8 +44,7 @@
 
 The `@web3-systems/multichain-providers` [node module](https://www.npmjs.com/package/@web3-systems/multichain-providers) is a MultiChain EVM Provider Client Library: managing multiple connections to `JsonRpcProvider` API endpoints.
 
-📜 MultiScan Client
-===================
+## 📜 MultiScan Client
 
 ![CI](https://github.com/web3-systems/multiscan-client/actions/workflows/main.yml/badge.svg)
 ![TS](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
@@ -63,7 +54,7 @@ The `@web3-systems/multichain-providers` [node module](https://www.npmjs.com/pac
 
 The `@web3-systems/multiscan-client` [node module](https://www.npmjs.com/package/@web3-systems/multiscan-client) is a MultiScan (Etherscan) Client Library: managing multiple connections to seperate API service endpoints.
 
-# 🗄️ MultiChain Database
+## 🗄️ MultiChain Database
 
 ![CI](https://github.com/web3-systems/multichain-database/actions/workflows/main.yml/badge.svg)
 ![TS](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
@@ -73,7 +64,7 @@ The `@web3-systems/multiscan-client` [node module](https://www.npmjs.com/package
 
 The `@web3-systems/multichain-database` [node module](https://www.npmjs.com/package/@web3-systems/multichain-database) is a MultiChain database system for Web3 Entities: Accounts, Transactions, Contracts, Logs, Sets and Computations.
 
-# ⚛️ 🪢 React Multichain
+## ⚛️ 🪢 React Multichain
 
 ![CI](https://github.com/web3-systems/react-multichain/actions/workflows/main.yml/badge.svg)
 ![TS](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
@@ -82,11 +73,6 @@ The `@web3-systems/multichain-database` [node module](https://www.npmjs.com/pack
 [![Downloads/week](https://img.shields.io/npm/dw/@web3-systems/react-multichain.svg)](https://npmjs.org/package/@web3-systems/react-multichain)
 
 The `@web3-systems/react-multichain` [node module](https://www.npmjs.com/package/@web3-systems/react-multichain) is a multichain state management system for Web3 Entity types: Transactions, Contract, Accounts, Logs, Sets and Computations.
-
-<!-- 🧪 Web3 Set Theory Status
-- https://web3-set-theory.github.io -->
-
-<!-- [<img src='https://github.com/web3-set-theory/.github/blob/main/profile/app.jpeg?raw=true' align="left" width="580px" >](https://web3-set-theory.github.io/) -->
 
 <!--
 **kamescg/kamescg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
