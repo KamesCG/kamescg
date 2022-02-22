@@ -3,26 +3,6 @@
 **Company:** [PoolTogether](https://pooltogether.com/)<br/>
 **Position:** Lead Solidity Engineer<br/>
 
-**🔥 Web3 Systems Engineer Skillset:**
-- Javascript/Typescript
-    - Browser DOM Management
-    - Node API (EventStack, FileSystem, CLI)
-    - Transpiling (Webpack, Babel, Typescript Rules, etc...)
-- Solidity & Ecosystem Tooling
-    - Contract Storage Management
-    - EIP Implementations
-    - Hardhat Testing/Deployments
-- Decentralized Applications
-    - TheGraph Indexing
-    - Edge Computing (browser based computations for user specific tasks)
-- Backend Systems
-    - Database (MySQL, Postgres)
-- Frontend Design/Development
-    - React & State Management
-    - CSS/Animations
-- Developer Tooling
-    - Turborepo & TSDX
-
 | 🎨 | Project | Links |
 | -- | ------ | ------ |
 | <img src="https://github.com/pooltogether/pooltogether--brand-assets/blob/master/token/pooltogether-token--purple-gradient.png?raw=true" width="70px"/>  | <h3>🏖️ PoolTogether</h3> <p>PoolTogether is a crypto-powered savings protocol based on Premium Bonds. Save money and have a chance to win every week.</p> <p>[<button>Learn More</button>](https://github.com/pooltogether)</p> | [<img src="/pooltogether.jpg" width="320px" maxWidth="100%"/>](https://app.pooltogether.com/deposit?network=polygon) |
