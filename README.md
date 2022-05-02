@@ -1,7 +1,7 @@
 ## 🐺 Kames Geraghty
 
 **Company:** [PoolTogether](https://pooltogether.com/)<br/>
-**Position:** Lead Solidity Engineer<br/>
+**Position:** Creator of Code<br/>
 
 | 🎨 | Project | Links |
 | -- | ------ | ------ |
